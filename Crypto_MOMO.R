@@ -1,4 +1,4 @@
-require("lubridate");require("quantmod");require("pbapply");require("data.table")
+require("lubridate");require("quantmod");require("pbapply");require("data.table");require("PerformanceAnalytics")
 # ********************************************************************************************************************************************
 #                                                         ** CHOOSE 4 ASSETS ** updated : 8/20/16....works
 # ********************************************************************************************************************************************
